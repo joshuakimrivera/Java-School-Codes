@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class String_arg_con{
 	public static void main(String[] args){
 		System.out.println("###################################################################");
 		System.out.println("#|---------------------------------------------------------------|#");
